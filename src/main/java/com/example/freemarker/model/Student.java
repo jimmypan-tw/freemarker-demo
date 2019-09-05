@@ -1,4 +1,4 @@
-package com.example.freemarker;
+package com.example.freemarker.model;
 
 public class Student {
     private Integer Id;

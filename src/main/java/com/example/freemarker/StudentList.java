@@ -1,5 +1,6 @@
 package com.example.freemarker;
 
+import com.example.freemarker.model.Student;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
